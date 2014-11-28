@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="buttons.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3979">
+      <stop
+         style="stop-color:#9b9b9b;stop-opacity:1;"
+         offset="0"
+         id="stop3981" />
+      <stop
+         style="stop-color:#878787;stop-opacity:1;"
+         offset="1"
+         id="stop3983" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3971">
+      <stop
+         style="stop-color:#c3c3c3;stop-opacity:1;"
+         offset="0"
+         id="stop3973" />
+      <stop
+         style="stop-color:#9b9b9b;stop-opacity:1;"
+         offset="1"
+         id="stop3975" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3963">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3965" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="1"
+         id="stop3967" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3937">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3939" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3941" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3927">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3929" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop3931" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3909">
+      <stop
+         id="stop3911"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3913"
+         offset="1"
+         style="stop-color:#f0f0f0;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3901">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3903" />
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1;"
+         offset="1"
+         id="stop3905" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3769">
+      <stop
+         style="stop-color:#00f00e;stop-opacity:1;"
+         offset="0"
+         id="stop3771" />
+      <stop
+         style="stop-color:#baf0ba;stop-opacity:0;"
+         offset="1"
+         id="stop3773" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3769-8">
+      <stop
+         style="stop-color:#00f00e;stop-opacity:1;"
+         offset="0"
+         id="stop3771-1" />
+      <stop
+         style="stop-color:#baf0ba;stop-opacity:0;"
+         offset="1"
+         id="stop3773-8" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3937"
+       id="radialGradient3943"
+       cx="487"
+       cy="210.73718"
+       fx="487"
+       fy="210.73718"
+       r="12.75"
+       gradientTransform="matrix(1,0,0,1.0392157,0,-8.2642031)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3971"
+       id="radialGradient3977"
+       cx="500"
+       cy="208.7874"
+       fx="500"
+       fy="208.7874"
+       r="100"
+       gradientTransform="matrix(0.61786707,-0.00252959,8.1392417e-4,0.19880516,190.89653,168.54418)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3979"
+       id="radialGradient3995"
+       cx="465.54257"
+       cy="200.32899"
+       fx="465.54257"
+       fy="200.32899"
+       r="9.4633493"
+       gradientTransform="matrix(1.9590955,-0.00722929,0.00482597,1.3078123,-456.85587,-48.476504)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3979"
+       id="radialGradient3997"
+       cx="534.54993"
+       cy="217.45319"
+       fx="534.54993"
+       fy="217.45319"
+       r="9.4633493"
+       gradientTransform="matrix(-0.02485349,-1.3072765,2.0515674,-0.03900371,111.35367,917.10687)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3979-7"
+       id="radialGradient3997-1"
+       cx="534.54993"
+       cy="217.45319"
+       fx="534.54993"
+       fy="217.45319"
+       r="9.4633493"
+       gradientTransform="matrix(-0.02485349,-1.3072765,2.0515674,-0.03900371,111.35367,917.10687)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3979-7">
+      <stop
+         style="stop-color:#9b9b9b;stop-opacity:1;"
+         offset="0"
+         id="stop3981-4" />
+      <stop
+         style="stop-color:#878787;stop-opacity:1;"
+         offset="1"
+         id="stop3983-0" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3979-7"
+       id="radialGradient3995-9"
+       cx="465.54257"
+       cy="200.32899"
+       fx="465.54257"
+       fy="200.32899"
+       r="9.4633493"
+       gradientTransform="matrix(1.9590955,-0.00722929,0.00482597,1.3078123,-456.85587,-48.476504)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3055">
+      <stop
+         style="stop-color:#9b9b9b;stop-opacity:1;"
+         offset="0"
+         id="stop3057" />
+      <stop
+         style="stop-color:#878787;stop-opacity:1;"
+         offset="1"
+         id="stop3059" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3971-8">
+      <stop
+         style="stop-color:#c3c3c3;stop-opacity:1;"
+         offset="0"
+         id="stop3973-8" />
+      <stop
+         style="stop-color:#9b9b9b;stop-opacity:1;"
+         offset="1"
+         id="stop3975-2" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3979-7"
+       id="radialGradient3918"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.02485349,-1.3072765,2.0515674,-0.03900371,111.35367,917.10687)"
+       cx="534.54993"
+       cy="217.45319"
+       fx="534.54993"
+       fy="217.45319"
+       r="9.4633493" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="362.06701"
+     inkscape:cy="765.37424"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="-9.5491631"
+       d="m 600,188.46155 -50.00001,43.30127 -100,0 -50,-43.30127 0,-1.28125 L 600,187.14905 z"
+       id="path3021-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="rect2991"
+       width="130"
+       height="100"
+       x="245"
+       y="47.362183"
+       ry="10"
+       inkscape:export-filename="C:\Users\Gabriel\Desktop\up_button_over.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#dcdcdc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.78835976"
+       d="m 280,132.36218 60,0 0,-30 20,0 -50,-39.999997 -50,39.999997 20,0 z"
+       id="path2989"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Gabriel\Desktop\up_button_over.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2991-6"
+       width="130"
+       height="100"
+       x="60"
+       y="47.362186"
+       ry="10"
+       inkscape:export-filename="C:\Users\Gabriel\Desktop\up_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95,132.36218 60,0 0,-30 20,0 -50,-39.999994 -50,39.999994 20,0 z"
+       id="path2989-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Gabriel\Desktop\up_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#b4b4b4;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2991-6-2"
+       width="130"
+       height="100"
+       x="60"
+       y="177.36218"
+       ry="10"
+       inkscape:export-filename="C:\Users\Gabriel\Desktop\up_button_clicked.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95,262.36218 60,0 0,-30 20,0 -50,-40 -50,40 20,0 z"
+       id="path2989-0-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Gabriel\Desktop\up_button_clicked.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#radialGradient3977);fill-opacity:1.0;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:transform-center-x="-9.5491631"
+       d="m 600,187.13676 -50.00001,43.30127 -100,0 -50,-43.30127 c 0,0 200.00001,0.22542 200.00001,0 z"
+       id="path3021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <path
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none"
+       d="m 480.40033,222.66218 13,0 0,-10 4.33333,0 -10.83333,-13.33333 -0.40088,-0.30799 -10.82722,13.3471 0.39477,0.29422 4.33333,0 -0.40016,9.70057 z"
+       id="path2989-1-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 480,222.36218 13,0 0,-10 4.33333,0 -10.83333,-13.33333 -10.83333,13.33333 4.33333,0 z"
+       id="path2989-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <path
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none"
+       d="m 519.60033,199.32886 -12.5997,-0.29831 -0.4003,0.29831 0,10 -3.91785,-0.30383 -0.41548,0.30383 10.83333,13.33332 0.39546,-0.30193 10.43787,-13.03139 -4.33333,0 z"
+       id="path2989-1-7-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 520,199.02885 -13,0 0,10 -4.33333,0 10.83333,13.33332 10.83333,-13.33332 -4.33333,0 z"
+       id="path2989-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <g
+       id="g3999"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162"
+       transform="translate(-5,0)">
+      <rect
+         rx="5"
+         ry="5"
+         y="197.36218"
+         x="455"
+         height="25.000019"
+         width="19.999987"
+         id="rect3805"
+         style="fill:#646464;fill-opacity:1;stroke:none" />
+      <rect
+         rx="4.731678"
+         ry="4.9431791"
+         y="197.61594"
+         x="456.05911"
+         height="24.715914"
+         width="18.926699"
+         id="rect3805-4"
+         style="fill:url(#radialGradient3995);fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4003"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162"
+       transform="translate(5,0)">
+      <rect
+         rx="5"
+         ry="5"
+         y="197.36217"
+         x="525"
+         height="25.000019"
+         width="19.999987"
+         id="rect3805-9"
+         style="fill:#646464;fill-opacity:1;stroke:none" />
+      <rect
+         rx="4.731678"
+         ry="4.9368653"
+         y="197.6554"
+         x="525.00208"
+         height="24.684347"
+         width="18.926699"
+         id="rect3805-4-8"
+         style="fill:url(#radialGradient3997);fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:#9b9b9b;fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="-9.5491631"
+       d="m 604,263.29915 -50,43.30127 -100,0 -50,-43.30127 c 0,0 200,0.22542 200,0 z"
+       id="path3021-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <path
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none"
+       d="m 484.40034,298.82457 13,0 0,-10 4.33332,0 -10.83332,-13.33333 -0.40089,-0.30799 -10.82722,13.3471 0.39477,0.29422 4.33334,0 -0.40016,9.70057 z"
+       id="path2989-1-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 484,298.52457 13,0 0,-10 4.33334,0 -10.83334,-13.33333 -10.83332,13.33333 4.33332,0 z"
+       id="path2989-1-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <path
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none"
+       d="m 523.60033,275.49125 -12.5997,-0.29831 -0.4003,0.29831 0,10 -3.91784,-0.30383 -0.41548,0.30383 10.83332,13.33332 0.39547,-0.30193 10.43787,-13.03139 -4.33334,0 z"
+       id="path2989-1-7-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 524,275.19124 -13,0 0,10 -4.33332,0 10.83332,13.33332 10.83334,-13.33332 -4.33334,0 z"
+       id="path2989-1-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179.49162"
+       inkscape:export-ydpi="179.49162" />
+    <rect
+       style="fill:#878787;fill-opacity:1;stroke:none"
+       id="rect3805-4-2"
+       width="18.926699"
+       height="24.715914"
+       x="455.05911"
+       y="273.77832"
+       ry="4.9431791"
+       rx="4.731678"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179"
+       inkscape:export-ydpi="179" />
+    <rect
+       style="fill:#878787;fill-opacity:1;stroke:none"
+       id="rect3805-4-8-1"
+       width="18.926699"
+       height="24.684347"
+       x="534.00208"
+       y="273.81778"
+       ry="4.9368653"
+       rx="4.731678"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\display_bg.png"
+       inkscape:export-xdpi="179"
+       inkscape:export-ydpi="179" />
+    <g
+       id="g3121"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\sound_button_on.png"
+       inkscape:export-xdpi="744.84277"
+       inkscape:export-ydpi="744.84277"
+       style="fill:#c8c8c8;fill-opacity:1">
+      <path
+         transform="translate(0.37175595,0.25985372)"
+         d="m 285.62824,265.10233 -20.42542,11.83625 -20.46321,-11.77082 -0.0378,-23.60706 20.42543,-11.83625 20.46321,11.77082 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0455974"
+         sodipodi:arg1="0.52199856"
+         sodipodi:r2="21.115753"
+         sodipodi:r1="23.607094"
+         sodipodi:cy="253.33151"
+         sodipodi:cx="265.16504"
+         sodipodi:sides="6"
+         id="path3061"
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+      <rect
+         ry="0"
+         rx="4.731678"
+         y="188.28754"
+         x="281.05026"
+         height="77.074638"
+         width="4.9497476"
+         id="rect3065"
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         ry="0"
+         rx="4.731678"
+         y="341.84692"
+         x="-24.976233"
+         height="24.18161"
+         width="4.9497476"
+         id="rect3065-7"
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0"
+         rx="4.731678"
+         y="200.38031"
+         x="302.0199"
+         height="12.020814"
+         width="4.9497476"
+         id="rect3065-4"
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(72.224916,2.5676216)"
+       id="g3121-3"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\sound_button_on_over.png"
+       inkscape:export-xdpi="744.38806"
+       inkscape:export-ydpi="744.38806"
+       style="fill:#9b9b9b;fill-opacity:1">
+      <path
+         transform="translate(0.37175595,0.25985372)"
+         d="m 285.62824,265.10233 -20.42542,11.83625 -20.46321,-11.77082 -0.0378,-23.60706 20.42543,-11.83625 20.46321,11.77082 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0455974"
+         sodipodi:arg1="0.52199856"
+         sodipodi:r2="21.115753"
+         sodipodi:r1="23.607094"
+         sodipodi:cy="253.33151"
+         sodipodi:cx="265.16504"
+         sodipodi:sides="6"
+         id="path3061-8"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+      <rect
+         ry="0"
+         rx="4.731678"
+         y="188.28754"
+         x="281.05026"
+         height="77.074638"
+         width="4.9497476"
+         id="rect3065-9"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:none" />
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         ry="0"
+         rx="4.731678"
+         y="341.84692"
+         x="-24.976233"
+         height="24.18161"
+         width="4.9497476"
+         id="rect3065-7-3"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0"
+         rx="4.731678"
+         y="200.38031"
+         x="302.0199"
+         height="12.020814"
+         width="4.9497476"
+         id="rect3065-4-4"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4064"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\sound_button_off.png.png"
+       inkscape:export-xdpi="744"
+       inkscape:export-ydpi="744">
+      <path
+         id="path3061-6"
+         d="M 256.40625 335.09375 L 235.96875 346.90625 L 236.03125 370.53125 L 256.46875 382.28125 L 276.90625 370.46875 L 276.875 346.84375 L 256.40625 335.09375 z M 256.21875 340.59375 L 271.6875 349.5 L 271.71875 367.375 L 256.25 376.34375 L 240.75 367.4375 L 240.75 349.5625 L 256.21875 340.59375 z "
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0"
+         rx="4.731678"
+         y="293.38565"
+         x="271.95789"
+         height="77.074638"
+         width="4.9497476"
+         id="rect3065-0"
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         ry="0"
+         rx="4.731678"
+         y="386.52176"
+         x="-120.54005"
+         height="24.18161"
+         width="4.9497476"
+         id="rect3065-7-6"
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0"
+         rx="4.731678"
+         y="305.47842"
+         x="292.92752"
+         height="12.020814"
+         width="4.9497476"
+         id="rect3065-4-6"
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(73.19179,2.8360688)"
+       id="g4064-8"
+       style="fill:#9b9b9b;fill-opacity:1"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\sound_button_off_over.png.png"
+       inkscape:export-xdpi="744"
+       inkscape:export-ydpi="744">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3061-6-4"
+         d="m 256.40625,335.09375 -20.4375,11.8125 0.0625,23.625 20.4375,11.75 20.4375,-11.8125 -0.0312,-23.625 -20.46875,-11.75 z m -0.1875,5.5 15.46875,8.90625 0.0312,17.875 -15.46875,8.96875 -15.5,-8.90625 0,-17.875 15.46875,-8.96875 z"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0"
+         rx="4.731678"
+         y="293.38565"
+         x="271.95789"
+         height="77.074638"
+         width="4.9497476"
+         id="rect3065-0-0"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:none" />
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         ry="0"
+         rx="4.731678"
+         y="386.52176"
+         x="-120.54005"
+         height="24.18161"
+         width="4.9497476"
+         id="rect3065-7-6-7"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0"
+         rx="4.731678"
+         y="305.47842"
+         x="292.92752"
+         height="12.020814"
+         width="4.9497476"
+         id="rect3065-4-6-6"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none"
+       d="m 398.21875,385.125 -20.4375,11.8125 0.0156,8.94968 -4.5545,0 4.5705,2.83157 2.40625,1.40625 2.34375,-1.34375 5.52215,-2.89407 -5.5226,0 4.5e-4,-6.29343 15.46875,-8.96875 15.46875,8.90625 0,1.59375 5.1875,0 0,-4.25 z m 18,21.78125 -2.6875,1.5625 -4.33103,2.56843 4.33103,0 0,6.36907 -15.46875,8.96875 -15.5,-8.90625 0,-1.5625 -4.71875,0 0,4.65625 20.4375,11.75 20.4375,-11.8125 -0.0156,-9.46282 4.32303,0 -4.33903,-2.69343 z"
+       id="path3061-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\restart.png"
+       inkscape:export-xdpi="1851.203"
+       inkscape:export-ydpi="1851.203" />
+    <path
+       style="fill:#9b9b9b;fill-opacity:1;stroke:none"
+       d="m 459.35035,384.24059 -20.4375,11.8125 0.0156,8.94968 -4.5545,0 4.5705,2.83157 2.40625,1.40625 2.34375,-1.34375 5.52215,-2.89407 -5.5226,0 4.5e-4,-6.29343 15.46875,-8.96875 15.46875,8.90625 0,1.59375 5.1875,0 0,-4.25 z m 18,21.78125 -2.6875,1.5625 -4.33103,2.56843 4.33103,0 0,6.36907 -15.46875,8.96875 -15.5,-8.90625 0,-1.5625 -4.71875,0 0,4.65625 20.4375,11.75 20.4375,-11.8125 -0.0156,-9.46282 4.32303,0 -4.33903,-2.69343 z"
+       id="path3061-6-7-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Jogos\geography\Inkscape\restart_over.png"
+       inkscape:export-xdpi="1851.2041"
+       inkscape:export-ydpi="1851.2041" />
+  </g>
+</svg>

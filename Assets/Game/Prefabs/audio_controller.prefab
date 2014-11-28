@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: audio_controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be95a09e2a3ec245aa9893c3819ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minTrack2Interval: 3
+  maxTrack2Interval: 5
+  track1:
+  - {fileID: 8300000, guid: b294c636828a9734da7a84313572af7b, type: 3}
+  - {fileID: 8300000, guid: 6e1a4682dbd356543b69eed99ebbfa35, type: 3}
+  - {fileID: 8300000, guid: 4e1533a5662b55e48b3652870ef324f4, type: 3}
+  - {fileID: 8300000, guid: f4aa4c1d5b979874f90541837412a3f8, type: 3}
+  - {fileID: 8300000, guid: 46d84b21076e5964cafb195f300f01c7, type: 3}
+  - {fileID: 8300000, guid: 7b9b074250108f440b72b3d7fb06c2f2, type: 3}
+  - {fileID: 8300000, guid: d33fb9d2c575e904bb54fd2dea3288bf, type: 3}
+  track2:
+  - {fileID: 8300000, guid: 2c2b1f0a2e8dac84287629a0675d75d9, type: 3}
+  - {fileID: 8300000, guid: cb0f4ea86c19fe144a49c4b8202632cc, type: 3}
+  - {fileID: 8300000, guid: 8dd78e04c84b0394c8b88232fc50d2b9, type: 3}
+  - {fileID: 8300000, guid: bd7f1a3e96353f043ab4364f0dcfaea9, type: 3}
+  - {fileID: 8300000, guid: 613580b5111275741a79ec870cb2fe50, type: 3}
+  - {fileID: 8300000, guid: fbaa63f8dabae734ab3947ddbd2ddf47, type: 3}
+  - {fileID: 8300000, guid: c2bb7d7d49e36cd49bb5bd843b1b4f7f, type: 3}
+  - {fileID: 8300000, guid: 8c6e1dd0769521c4f99015b483861834, type: 3}
+  - {fileID: 8300000, guid: 2d252c30bb50932408d2174dd49ed222, type: 3}
+  - {fileID: 8300000, guid: 0236caf8e059d094cbf057bb7b50de10, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
